@@ -1,0 +1,65 @@
+body {
+    background-color: #CECECE;
+    
+    
+}
+#chat {
+	width: 1000px;
+        margin: auto;
+	padding: 10px;
+	background-color: #DEDEDE;
+}
+
+#cabecalho {
+	text-align: center;
+	font-size: 25px;
+	color: #101010;
+	background-color: #BABABA;
+	padding: 5px;
+	font-weight: bold;
+}
+
+#estatisticas {
+	text-align: right;
+	background-color: #CECECE;
+}
+
+#mensagens {
+	float: left;
+}
+
+#mensagens textarea {
+	height: 300px;
+	width: 840px;
+}
+
+#usuarios select {
+	height: 307px;
+	width: 150px; 
+}
+
+#formularioMensagem {
+    
+    width: 1012px;
+    margin: auto;
+    background-color: #CECECE;
+    margin-top: 0px;
+    padding: 5px;
+      
+}
+#formulario #mensagem {
+	width: 200px;
+}
+
+#formulario #para {
+	width: 128px;
+}
+
+#login {
+    margin: auto;
+    background-color: #DEDEDE;
+    border: solid 5px #dadada;
+    padding: 25px;
+    width: 250px;
+    text-align: center;
+}
